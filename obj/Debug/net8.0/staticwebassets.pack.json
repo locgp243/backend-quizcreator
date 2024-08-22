@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\My_Project\\PhamGiaLoc-D21C01A3119-ASPNC\\Project BetuQuizCreator (React + ASP .Net)\\BackEnd\\backendV1\\backendV1\\wwwroot\\avatars\\1.jpg",
+      "PackagePath": "staticwebassets\\avatars\\1.jpg"
+    },
+    {
+      "Id": "D:\\My_Project\\PhamGiaLoc-D21C01A3119-ASPNC\\Project BetuQuizCreator (React + ASP .Net)\\BackEnd\\backendV1\\backendV1\\wwwroot\\avatars\\6.jpg",
+      "PackagePath": "staticwebassets\\avatars\\6.jpg"
+    },
+    {
+      "Id": "D:\\My_Project\\PhamGiaLoc-D21C01A3119-ASPNC\\Project BetuQuizCreator (React + ASP .Net)\\BackEnd\\backendV1\\backendV1\\wwwroot\\avatars\\7.jpg",
+      "PackagePath": "staticwebassets\\avatars\\7.jpg"
+    },
+    {
+      "Id": "D:\\My_Project\\PhamGiaLoc-D21C01A3119-ASPNC\\Project BetuQuizCreator (React + ASP .Net)\\BackEnd\\backendV1\\backendV1\\wwwroot\\avatars\\ba2e5a1d-125c-4a10-ab4d-e016d8c71509.jpg",
+      "PackagePath": "staticwebassets\\avatars\\ba2e5a1d-125c-4a10-ab4d-e016d8c71509.jpg"
+    },
+    {
+      "Id": "D:\\My_Project\\PhamGiaLoc-D21C01A3119-ASPNC\\Project BetuQuizCreator (React + ASP .Net)\\BackEnd\\backendV1\\backendV1\\wwwroot\\avatars\\bg3.jpg",
+      "PackagePath": "staticwebassets\\avatars\\bg3.jpg"
+    },
+    {
+      "Id": "D:\\My_Project\\PhamGiaLoc-D21C01A3119-ASPNC\\Project BetuQuizCreator (React + ASP .Net)\\BackEnd\\backendV1\\backendV1\\wwwroot\\avatars\\photo1607411496942-1607411497547783059235-1627484006-362-width660height410.jpg",
+      "PackagePath": "staticwebassets\\avatars\\photo1607411496942-1607411497547783059235-1627484006-362-width660height410.jpg"
+    },
+    {
+      "Id": "D:\\My_Project\\PhamGiaLoc-D21C01A3119-ASPNC\\Project BetuQuizCreator (React + ASP .Net)\\BackEnd\\backendV1\\backendV1\\wwwroot\\avatars\\z5004982713755_f514ab2394b83df1c62cfbec96611082.jpg",
+      "PackagePath": "staticwebassets\\avatars\\z5004982713755_f514ab2394b83df1c62cfbec96611082.jpg"
+    },
+    {
+      "Id": "D:\\My_Project\\PhamGiaLoc-D21C01A3119-ASPNC\\Project BetuQuizCreator (React + ASP .Net)\\BackEnd\\backendV1\\backendV1\\wwwroot\\avatars\\z5443016039837_adca46bb4307db89e5187e08629699b7.jpg",
+      "PackagePath": "staticwebassets\\avatars\\z5443016039837_adca46bb4307db89e5187e08629699b7.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.backendV1.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.backendV1.props",
+      "PackagePath": "build\\backendV1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.backendV1.props",
+      "PackagePath": "buildMultiTargeting\\backendV1.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.backendV1.props",
+      "PackagePath": "buildTransitive\\backendV1.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
